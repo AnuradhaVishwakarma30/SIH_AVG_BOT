@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Mobile Robot System",
+  "description": "Frontend operator interface and monitoring dashboard for the SIH 2026 autonomous mobile robot / AGV system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
