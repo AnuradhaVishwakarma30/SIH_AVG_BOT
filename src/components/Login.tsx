@@ -87,16 +87,6 @@ export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
           </button>
         </form>
 
-        {/* Demo Credentials Box */}
-        <div className="mt-8 pt-4 border-t border-neutral-300 text-xs text-neutral-600 space-y-1">
-          <div className="font-bold uppercase text-black text-[11px]">Demo Authentication</div>
-          <div>For the frontend prototype, use:</div>
-          <div className="bg-neutral-100 p-2 border border-neutral-300 font-mono text-xs text-black">
-            <div>Username: <span className="font-bold">admin</span></div>
-            <div>Password: <span className="font-bold">admin</span></div>
-          </div>
-        </div>
-      </div>
-    </div>
+
   );
 };
