@@ -165,10 +165,7 @@ export const Dashboard: React.FC<DashboardProps> = ({
           <CommandLog logs={logs} onClearLogs={onClearLogs} />
         </section>
 
-        {/* OPERATOR GUIDE */}
-        <section aria-label="Operator Guide">
-          <OperatorGuide />
-        </section>
+
       </main>
 
     
